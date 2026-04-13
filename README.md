@@ -26,18 +26,6 @@ BEATIVA is a sleek, neon-themed desktop music player built with a modern, termin
 
 ---
 
-## 🌐 Website
-
-This repository also includes the deployment website used to showcase and distribute BEATIVA.
-
-Features of the website:
-
-* Responsive design
-* Terminal-style UI
-* Clean product showcase
-* Direct download access
-
----
 
 ## ⚙️ Getting Started
 
