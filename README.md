@@ -3,7 +3,7 @@
 
 > Minimal. Fast. Powerful.
 
-BEATIVA is a sleek, neon-themed desktop music player built with a modern, terminal-inspired UI. Designed for speed and simplicity, it delivers a clean listening experience with a unique hacker-style aesthetic.
+BEATIVA is a sleek, neon-themed desktop music player built with a modern, terminal-inspired UI. Designed for speed and simplicity, it delivers a clean listening experience.
 
 ---
 
