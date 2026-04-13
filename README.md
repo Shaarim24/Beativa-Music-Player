@@ -14,7 +14,7 @@ BEATIVA is a sleek, neon-themed desktop music player built with a modern, termin
 * 📂 Playlist support
 * 💾 Offline-ready
 * 🖥️ Clean terminal-inspired UI
-* 🟢 Neon green hacker aesthetic
+
 
 ---
 
