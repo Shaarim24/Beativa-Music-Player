@@ -18,14 +18,6 @@ BEATIVA is a sleek, neon-themed desktop music player built with a modern, termin
 
 ---
 
-##  Tech Stack
-
-* C++ (Core application)
-* Custom UI design
-* yt-dlp integration (for media handling)
-
----
-
 
 ##  Getting Started
 
