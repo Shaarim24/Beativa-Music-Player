@@ -1,6 +1,7 @@
 
 #  BEATIVA — Music Player [Beta]
 
+  https://website-beativa.vercel.app/
 > Minimal. Fast. Powerful.
 
 BEATIVA is a sleek, neon-themed desktop music player built with a modern, terminal-inspired UI. Designed for speed and simplicity, it delivers a clean listening experience.
