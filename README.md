@@ -28,6 +28,7 @@ BEATIVA is a sleek, neon-themed desktop music player built with a modern, termin
 
 ---
 
+
 ##  Vision
 
 BEATIVA is built to feel like a premium underground tool — combining performance with a distinct visual identity.
