@@ -8,6 +8,11 @@ BEATIVA is a sleek, open-source, neon-themed desktop music player built with a m
 
 ---
 
+# Update
+
+* added lyrics feature
+* fixed bugs
+
 ##  Features
 
 *  Fast and lightweight performance
